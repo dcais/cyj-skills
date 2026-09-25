@@ -84,7 +84,7 @@ python3 install.py --codex-home "$HOME/.codex"
     },
     "standard": {
       "model": "gpt-6-sol",
-      "reasoning_effort": "medium"
+      "reasoning_effort": "high"
     },
     "deep": {
       "model": "gpt-6-astra",
