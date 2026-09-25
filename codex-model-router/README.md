@@ -73,7 +73,7 @@ codex-model-router/
     },
     "deep": {
       "model": "gpt-6-astra",
-      "reasoning_effort": "high"
+      "reasoning_effort": "medium"
     }
   }
 }
