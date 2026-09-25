@@ -65,7 +65,7 @@ codex-model-router/
   "tiers": {
     "fast": {
       "model": "gpt-6-luna",
-      "reasoning_effort": "low"
+      "reasoning_effort": "high"
     },
     "standard": {
       "model": "gpt-6-sol",

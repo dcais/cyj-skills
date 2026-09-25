@@ -80,7 +80,7 @@ python3 install.py --codex-home "$HOME/.codex"
   "tiers": {
     "fast": {
       "model": "gpt-6-luna",
-      "reasoning_effort": "low"
+      "reasoning_effort": "high"
     },
     "standard": {
       "model": "gpt-6-sol",
