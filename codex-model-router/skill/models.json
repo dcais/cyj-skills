@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "tiers": {
+    "fast": {"model": "gpt-6-luna", "reasoning_effort": "low"},
+    "standard": {"model": "gpt-6-sol", "reasoning_effort": "medium"},
+    "deep": {"model": "gpt-6-astra", "reasoning_effort": "high"}
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Model Router"
+  short_description: "按任务复杂度选择可配置的原生模型档位，验证执行结果并按需升级"
+  default_prompt: "使用 $codex-model-router 为当前任务选择合适的模型档位，执行并验证结果。"
+policy:
+  allow_implicit_invocation: true
